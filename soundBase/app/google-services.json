@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253890526882",
+    "project_id": "soundbase-f9c62",
+    "storage_bucket": "soundbase-f9c62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253890526882:android:88a385970ff8f6a770e1fb",
+        "android_client_info": {
+          "package_name": "com.defaultcompany.soundbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253890526882-efin0eq0qklq7jgar5d29fabhs1k8vmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk5NrmhjEvlEzZjUQtB4tXabkofS3dVPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253890526882-efin0eq0qklq7jgar5d29fabhs1k8vmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
